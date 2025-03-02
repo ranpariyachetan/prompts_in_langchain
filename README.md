@@ -1,0 +1,1 @@
+This repository was created as part of learning Prompts in LangChain thru [Youtube video](https://www.youtube.com/watch?v=3TGqlQxpuU0) from [CampusX channel](https://www.youtube.com/@campusx-official). 
